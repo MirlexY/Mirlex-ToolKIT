@@ -24,7 +24,7 @@ git clone https://github.com/MirlexY/Mirlex-ToolKIT.git
 Go to the project directory
 
 ```bash
-cd Mirlex-ToolKIT.py
+cd Mirlex-ToolKIT
 ```
 
 Install required packages
