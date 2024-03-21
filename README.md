@@ -18,7 +18,7 @@ This tool enables users to perform various tasks such as creating a trojan with 
 Clone the project
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/MirlexY/Mirlex-ToolKIT.git
 ```
 
 Go to the project directory
